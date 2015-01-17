@@ -1,0 +1,899 @@
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-16T23:06:32.034Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-16T23:06:32.081Z"}
+{"level":"notice","message":"pid: 11074","timestamp":"2015-01-16T23:06:32.260Z"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-16T23:06:32.261Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-16T23:06:32.262Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-16T23:06:32.262Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-16T23:06:32.269Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-01-16T23:06:32.274Z"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-16T23:06:32.705Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-16T23:06:32.708Z"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:06:32 ***","timestamp":"2015-01-16T23:06:32.708Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-16T23:06:34.941Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:11:26"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:11:26"}
+{"level":"notice","message":"pid: 11107","timestamp":"2015-01-17 06:11:26"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:11:26"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:11:26"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:11:26"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:11:26"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:11:26"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:11:26"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:11:26"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:11:26 ***","timestamp":"2015-01-17 06:11:26"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 06:11:28"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:11:37"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:11:37"}
+{"level":"notice","message":"pid: 11108","timestamp":"2015-01-17 06:11:37"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:11:37"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:11:37"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:11:37"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:11:37"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:11:37"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:11:37"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:11:37"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:11:37 ***","timestamp":"2015-01-17 06:11:37"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 06:11:39"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:15:12"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:15:12"}
+{"level":"notice","message":"pid: 11114","timestamp":"2015-01-17 06:15:12"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:15:12"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:15:12"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:15:12"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:15:12"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:15:12"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:15:12"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:15:12"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:15:12 ***","timestamp":"2015-01-17 06:15:12"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 06:15:47"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 06:15:47"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:15:47"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 06:15:47"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"pid: 11114","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:15:47"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:15:47"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:15:47"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:15:47"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:15:47 ***","timestamp":"2015-01-17 06:15:47"}
+{"level":"info","message":"*** actionhero restarted ***","timestamp":"2015-01-17 06:15:47"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 06:16:04"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:51:52"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:51:52"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:52:30"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:52:46"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:52:46"}
+{"level":"notice","message":"pid: 11218","timestamp":"2015-01-17 06:52:46"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:52:46"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:52:46"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:52:46"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:52:46"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:52:46"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:52:46"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:52:46"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:52:46 ***","timestamp":"2015-01-17 06:52:46"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":1,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:53:54"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:54:01"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/config/servers/web.js) ***\r\n\r\n","timestamp":"2015-01-17 06:54:57"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 06:54:57"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 06:54:57"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:54:57"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 06:54:57"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:54:57"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 06:54:57"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 06:54:57"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:55:05"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:55:05"}
+{"level":"notice","message":"pid: 11229","timestamp":"2015-01-17 06:55:05"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:55:05"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:55:05"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:55:05"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:55:05"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:55:05"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:55:05"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:55:05"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:55:05 ***","timestamp":"2015-01-17 06:55:05"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":1,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:55:13"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":null}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:57:08"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:57:26"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":1,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:57:46"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 06:57:48"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:57:49"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:57:49"}
+{"level":"notice","message":"pid: 11234","timestamp":"2015-01-17 06:57:50"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:57:50"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:57:50"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:57:50"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:57:50"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:57:50"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:57:50"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:57:50"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:57:50 ***","timestamp":"2015-01-17 06:57:50"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":2,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:57:52"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to config change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/config/api.js) ***\r\n\r\n","timestamp":"2015-01-17 06:58:36"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 06:58:36"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 06:59:41"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 06:59:41"}
+{"level":"notice","message":"pid: 11241","timestamp":"2015-01-17 06:59:41"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 06:59:41"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 06:59:41"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 06:59:41"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 06:59:41"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 06:59:41"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 06:59:41"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 06:59:41"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 06:59:41 ***","timestamp":"2015-01-17 06:59:41"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":2,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 06:59:51"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:00:25"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:00:27"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:00:27"}
+{"level":"notice","message":"pid: 11244","timestamp":"2015-01-17 07:00:27"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:00:27"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:00:27"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:00:27"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:00:27"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:00:27"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:00:27"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:00:27"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:00:27 ***","timestamp":"2015-01-17 07:00:27"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\"}","duration":1,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:00:29"}
+{"level":"alert","message":"! Failed to load /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/actions/http.js","timestamp":"2015-01-17 07:01:19"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:01:31"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:01:31"}
+{"level":"notice","message":"pid: 11246","timestamp":"2015-01-17 07:01:32"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:01:32"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:01:32"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:01:32"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:01:32"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:01:32"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:01:32"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:01:32"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:01:32 ***","timestamp":"2015-01-17 07:01:32"}
+{"level":"error","message":"! uncaught error from action: action:http_get","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"! connection details:","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     action: \"http_get\"","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     params: {\"action\":\"http_get\",\"apiVersion\":1}","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"! ReferenceError: util is not defined","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at Object.exports.action.run (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/actions/http.js:59:13)","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:300:31","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:129:42)","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at api.actionProcessor.runAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:290:12)","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:277:18","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:276:24)","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/genericServer.js:93:23)","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"!     at /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/servers/web.js:136:16","timestamp":"2015-01-17 07:01:37"}
+{"level":"error","message":"*","timestamp":"2015-01-17 07:01:37"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":25,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:01:37"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:01:54"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:01:55"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:01:55"}
+{"level":"notice","message":"pid: 11248","timestamp":"2015-01-17 07:01:56"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:01:56"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:01:56"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:01:56"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:01:56"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:01:56"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:01:56"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:01:56"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:01:56 ***","timestamp":"2015-01-17 07:01:56"}
+{"level":"info","message":"{ action: 'http_get', apiVersion: 1 }","timestamp":"2015-01-17 07:01:59"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":9,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:01:59"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:02:13"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:02:14"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:02:14"}
+{"level":"notice","message":"pid: 11250","timestamp":"2015-01-17 07:02:14"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:02:14"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:02:14"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:02:14"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:02:14"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:02:14"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:02:14"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:02:14"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:02:14 ***","timestamp":"2015-01-17 07:02:14"}
+{"level":"info","message":"{ action: 'http_get', apiVersion: 1 }","timestamp":"2015-01-17 07:02:16"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":10,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:02:16"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:03:23"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:03:24"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:03:24"}
+{"level":"notice","message":"pid: 11252","timestamp":"2015-01-17 07:03:24"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:03:24"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:03:24"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:03:24"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:03:24"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:03:24"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:03:24"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:03:24"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:03:24 ***","timestamp":"2015-01-17 07:03:24"}
+{"level":"info","message":"undefined","timestamp":"2015-01-17 07:03:27"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":10,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:03:27"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:03:36"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:03:37"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:03:37"}
+{"level":"notice","message":"pid: 11254","timestamp":"2015-01-17 07:03:37"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:03:37"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:03:37"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:03:37"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:03:38"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:03:38"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:03:38"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:03:38"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:03:38 ***","timestamp":"2015-01-17 07:03:38"}
+{"level":"info","message":"{ req: \n   { _readableState: \n      { highWaterMark: 16384,\n        buffer: [],\n        length: 0,\n        pipes: null,\n        pipesCount: 0,\n        flowing: false,\n        ended: false,\n        endEmitted: false,\n        reading: false,\n        calledRead: false,\n        sync: true,\n        needReadable: false,\n        emittedReadable: false,\n        readableListening: false,\n        objectMode: false,\n        defaultEncoding: 'utf8',\n        ranOut: false,\n        awaitDrain: 0,\n        readingMore: false,\n        decoder: null,\n        encoding: null },\n     readable: true,\n     domain: null,\n     _events: {},\n     _maxListeners: 10,\n     socket: \n      { _connecting: false,\n        _handle: [Object],\n        _readableState: [Object],\n        readable: true,\n        domain: null,\n        _events: [Object],\n        _maxListeners: 10,\n        _writableState: [Object],\n        writable: true,\n        allowHalfOpen: true,\n        onend: [Function],\n        destroyed: false,\n        bytesRead: 110,\n        _bytesDispatched: 0,\n        _pendingData: null,\n        _pendingEncoding: '',\n        server: [Object],\n        _idleTimeout: 120000,\n        _idleNext: [Object],\n        _idlePrev: [Object],\n        _idleStart: 1421453024167,\n        _monotonicStartTime: 204050942,\n        parser: [Object],\n        ondata: [Function],\n        _paused: false,\n        _httpMessage: [Object],\n        _peername: [Object] },\n     connection: \n      { _connecting: false,\n        _handle: [Object],\n        _readableState: [Object],\n        readable: true,\n        domain: null,\n        _events: [Object],\n        _maxListeners: 10,\n        _writableState: [Object],\n        writable: true,\n        allowHalfOpen: true,\n        onend: [Function],\n        destroyed: false,\n        bytesRead: 110,\n        _bytesDispatched: 0,\n        _pendingData: null,\n        _pendingEncoding: '',\n        server: [Object],\n        _idleTimeout: 120000,\n        _idleNext: [Object],\n        _idlePrev: [Object],\n        _idleStart: 1421453024167,\n        _monotonicStartTime: 204050942,\n        parser: [Object],\n        ondata: [Function],\n        _paused: false,\n        _httpMessage: [Object],\n        _peername: [Object] },\n     httpVersion: '1.1',\n     complete: false,\n     headers: \n      { 'user-agent': 'curl/7.37.1',\n        host: 'localhost:8080',\n        accept: '*/*' },\n     trailers: {},\n     _pendings: [],\n     _pendingIndex: 0,\n     url: '/api/httpget?myArg1=23&myArg2=434',\n     method: 'GET',\n     statusCode: null,\n     client: \n      { _connecting: false,\n        _handle: [Object],\n        _readableState: [Object],\n        readable: true,\n        domain: null,\n        _events: [Object],\n        _maxListeners: 10,\n        _writableState: [Object],\n        writable: true,\n        allowHalfOpen: true,\n        onend: [Function],\n        destroyed: false,\n        bytesRead: 110,\n        _bytesDispatched: 0,\n        _pendingData: null,\n        _pendingEncoding: '',\n        server: [Object],\n        _idleTimeout: 120000,\n        _idleNext: [Object],\n        _idlePrev: [Object],\n        _idleStart: 1421453024167,\n        _monotonicStartTime: 204050942,\n        parser: [Object],\n        ondata: [Function],\n        _paused: false,\n        _httpMessage: [Object],\n        _peername: [Object] },\n     _consuming: false,\n     _dumped: false,\n     httpVersionMajor: 1,\n     httpVersionMinor: 1,\n     upgrade: false },\n  res: \n   { domain: null,\n     _events: { finish: [Function] },\n     _maxListeners: 10,\n     output: [],\n     outputEncodings: [],\n     writable: true,\n     _last: false,\n     chunkedEncoding: false,\n     shouldKeepAlive: true,\n     useChunkedEncodingByDefault: true,\n     sendDate: true,\n     _headerSent: false,\n     _header: '',\n     _hasBody: true,\n     _trailer: '',\n     finished: false,\n     _hangupClose: false,\n     socket: \n      { _connecting: false,\n        _handle: [Object],\n        _readableState: [Object],\n        readable: true,\n        domain: null,\n        _events: [Object],\n        _maxListeners: 10,\n        _writableState: [Object],\n        writable: true,\n        allowHalfOpen: true,\n        onend: [Function],\n        destroyed: false,\n        bytesRead: 110,\n        _bytesDispatched: 0,\n        _pendingData: null,\n        _pendingEncoding: '',\n        server: [Object],\n        _idleTimeout: 120000,\n        _idleNext: [Object],\n        _idlePrev: [Object],\n        _idleStart: 1421453024167,\n        _monotonicStartTime: 204050942,\n        parser: [Object],\n        ondata: [Function],\n        _paused: false,\n        _httpMessage: [Circular],\n        _peername: [Object] },\n     connection: \n      { _connecting: false,\n        _handle: [Object],\n        _readableState: [Object],\n        readable: true,\n        domain: null,\n        _events: [Object],\n        _maxListeners: 10,\n        _writableState: [Object],\n        writable: true,\n        allowHalfOpen: true,\n        onend: [Function],\n        destroyed: false,\n        bytesRead: 110,\n        _bytesDispatched: 0,\n        _pendingData: null,\n        _pendingEncoding: '',\n        server: [Object],\n        _idleTimeout: 120000,\n        _idleNext: [Object],\n        _idlePrev: [Object],\n        _idleStart: 1421453024167,\n        _monotonicStartTime: 204050942,\n        parser: [Object],\n        ondata: [Function],\n        _paused: false,\n        _httpMessage: [Circular],\n        _peername: [Object] } },\n  params: { query: { myArg1: '23', myArg2: '434' } },\n  method: 'GET',\n  cookies: {},\n  responseHeaders: \n   [ [ 'Set-Cookie',\n       'sessionID=f705c8410a3b2cb5f62517b3091f0218c3862319;path=/;expires=Sat, 17 Jan 2015 01:03:44 GMT;' ],\n     [ 'Content-Type', 'application/json; charset=utf-8' ],\n     [ 'X-Powered-By', 'dummyserver API' ],\n     [ 'Access-Control-Allow-Origin', '*' ],\n     [ 'Access-Control-Allow-Methods',\n       'HEAD, GET, POST, PUT, PATCH, DELETE, OPTIONS, TRACE' ],\n     [ 'Access-Control-Allow-Headers', 'Content-Type' ],\n     [ 'Content-Type', 'text/plain' ] ],\n  responseHttpCode: 200,\n  parsedURL: \n   { protocol: null,\n     slashes: null,\n     auth: null,\n     host: null,\n     port: null,\n     hostname: null,\n     hash: null,\n     search: '?myArg1=23&myArg2=434',\n     query: { myArg1: '23', myArg2: '434' },\n     pathname: '/api/httpget',\n     path: '/api/httpget?myArg1=23&myArg2=434',\n     href: '/api/httpget?myArg1=23&myArg2=434' } }","timestamp":"2015-01-17 07:03:44"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":24,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:03:44"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:04:49"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:04:50"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:04:50"}
+{"level":"notice","message":"pid: 11356","timestamp":"2015-01-17 07:04:50"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:04:50"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:04:50"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:04:50"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:04:50"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:04:50"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:04:50"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:04:50 ***","timestamp":"2015-01-17 07:04:50"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:04:50"}
+{"level":"info","message":"{ myArg1: '23', myArg2: '434' }","timestamp":"2015-01-17 07:04:52"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:04:52"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:05:10"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:05:11"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:05:11"}
+{"level":"notice","message":"pid: 11358","timestamp":"2015-01-17 07:05:11"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:05:11"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:05:11"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:05:11"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:05:11"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:05:11"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:05:11"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:05:11"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:05:11 ***","timestamp":"2015-01-17 07:05:11"}
+{"level":"info","message":"{ myArg1: '23', myArg2: '434' }","timestamp":"2015-01-17 07:05:14"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:05:14"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:05:26"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:05:27"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:05:27"}
+{"level":"notice","message":"pid: 11360","timestamp":"2015-01-17 07:05:27"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:05:27"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:05:27"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:05:27"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:05:27"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:05:27"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:05:27"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:05:27"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:05:27 ***","timestamp":"2015-01-17 07:05:27"}
+{"level":"error","message":"! uncaught error from action: action:http_get","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"! connection details:","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     action: \"http_get\"","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     params: {\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\",\"apiVersion\":1}","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"! ReferenceError: Integer is not defined","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at Object.commonInputs.myArg1.formatter (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/actions/http.js:15:14)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at api.actionProcessor.validateParams (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:204:47)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:293:14","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:129:42)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at api.actionProcessor.runAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:290:12)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:277:18","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:276:24)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/genericServer.js:93:23)","timestamp":"2015-01-17 07:05:30"}
+{"level":"error","message":"*","timestamp":"2015-01-17 07:05:30"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\",\"apiVersion\":1}","duration":8,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:05:30"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:05:49"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:05:50"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:05:50"}
+{"level":"notice","message":"pid: 11362","timestamp":"2015-01-17 07:05:50"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:05:50"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:05:50"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:05:50"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:05:50"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:05:50"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:05:50"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:05:50"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:05:50 ***","timestamp":"2015-01-17 07:05:50"}
+{"level":"error","message":"! uncaught error from action: action:http_get","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"! connection details:","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     action: \"http_get\"","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     remoteIP: \"127.0.0.1\"","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     type: \"web\"","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     params: {\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\",\"apiVersion\":1}","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"! ReferenceError: int is not defined","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at Object.commonInputs.myArg1.formatter (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/actions/http.js:15:14)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at api.actionProcessor.validateParams (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:204:47)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:293:14","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at api.actionProcessor.preProcessAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:129:42)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at api.actionProcessor.runAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:290:12)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:277:18","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at b (domain.js:183:18)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at Domain.run (domain.js:123:23)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at api.actionProcessor.processAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/actionProcessor.js:276:24)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"!     at api.genericServer.processAction (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/node_modules/actionhero/initializers/genericServer.js:93:23)","timestamp":"2015-01-17 07:05:53"}
+{"level":"error","message":"*","timestamp":"2015-01-17 07:05:53"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":\"23\",\"myArg2\":\"434\",\"action\":\"http_get\",\"apiVersion\":1}","duration":7,"error":"\"Error: The server experienced an internal error\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:05:53"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:06:18"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:06:19"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:06:19"}
+{"level":"notice","message":"pid: 11364","timestamp":"2015-01-17 07:06:19"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:06:19"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:06:19"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:06:19"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:06:19"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:06:19"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:06:19"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:06:19"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:06:19 ***","timestamp":"2015-01-17 07:06:19"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":23,\"myArg2\":434,\"action\":\"http_get\",\"apiVersion\":1}","duration":2,"error":"\"Error: Error: myArg2 should be greater than 0\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:06:22"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:06:57"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:06:58"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:06:58"}
+{"level":"notice","message":"pid: 11366","timestamp":"2015-01-17 07:06:58"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:06:58"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:06:58"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:06:58"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:06:58"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:06:58"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:06:58"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:06:58"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:06:58 ***","timestamp":"2015-01-17 07:06:58"}
+{"level":"info","message":"{ myArg1: '23', myArg2: '434' }","timestamp":"2015-01-17 07:07:00"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":23,\"myArg2\":434,\"action\":\"http_get\",\"apiVersion\":1}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:07:00"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:08:03"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:08:04"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:08:04"}
+{"level":"notice","message":"pid: 11368","timestamp":"2015-01-17 07:08:04"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:08:04"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:08:04"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:08:04"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:08:04"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:08:04"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:08:04"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:08:04"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:08:04 ***","timestamp":"2015-01-17 07:08:04"}
+{"level":"info","message":"{ myArg1: '23', myArg2: '434' }","timestamp":"2015-01-17 07:08:07"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":23,\"myArg2\":434,\"action\":\"http_get\",\"apiVersion\":1}","duration":3,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:08:07"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:09:50"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:09:51"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:09:51"}
+{"level":"notice","message":"pid: 11370","timestamp":"2015-01-17 07:09:51"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:09:51"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:09:51"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:09:51"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:09:51"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:09:51"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:09:51"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:09:51"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:09:51 ***","timestamp":"2015-01-17 07:09:51"}
+{"level":"info","message":"{ myArg1: '23', myArg2: '434' }","timestamp":"2015-01-17 07:09:54"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":23,\"myArg2\":434,\"action\":\"http_get\",\"apiVersion\":1}","duration":5,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:09:54"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":234324,\"myArg2\":4343,\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:11:05"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:11:34"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:11:35"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:11:35"}
+{"level":"notice","message":"pid: 11375","timestamp":"2015-01-17 07:11:35"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:11:35"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:11:35"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:11:35"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:11:35"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:11:35"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:11:35"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:11:35 ***","timestamp":"2015-01-17 07:11:35"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:11:35"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":234324,\"myArg2\":4343,\"action\":\"http_post\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:11:37"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:12:04"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:12:05"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:12:05"}
+{"level":"notice","message":"pid: 11377","timestamp":"2015-01-17 07:12:05"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:12:05"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:12:05"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:12:05"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:12:05"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:12:05"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:12:05"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:12:05"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:12:05 ***","timestamp":"2015-01-17 07:12:05"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":234324,\"myArg2\":4343,\"action\":\"http_post\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:12:07"}
+{"level":"alert","message":"! Failed to load /Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/actions/http.js","timestamp":"2015-01-17 07:14:48"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:16:03"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:16:03"}
+{"level":"notice","message":"pid: 11387","timestamp":"2015-01-17 07:16:03"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:16:03"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:16:03"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:16:03"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:16:03"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:16:03"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:16:03"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:16:03"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:16:03 ***","timestamp":"2015-01-17 07:16:03"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":234324,\"myArg2\":4343,\"action\":\"http_post\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:16:06"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:16:31"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:16:31"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:16:31"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:16:31"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:16:31"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:16:31"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:16:31"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:16:31"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:16:42"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:16:42"}
+{"level":"notice","message":"pid: 11390","timestamp":"2015-01-17 07:16:42"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:16:42"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:16:42"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:16:42"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:16:42"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:16:42"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:16:42"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:16:42"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:16:42 ***","timestamp":"2015-01-17 07:16:42"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":234324,\"myArg2\":4343,\"action\":\"http_post\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:16:44"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:21:32"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:21:32"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:21:32"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:21:32"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:21:32"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:21:32"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:21:32"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:21:32"}
+{"level":"notice","message":"pid: 11390","timestamp":"2015-01-17 07:21:32"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:21:37"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:21:37"}
+{"level":"notice","message":"pid: 11410","timestamp":"2015-01-17 07:21:37"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:21:37"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:21:37"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:21:37"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:21:37"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:21:37"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:21:37"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:21:37"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:21:37 ***","timestamp":"2015-01-17 07:21:37"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:21:58"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:21:58"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:21:58"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:21:58"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:21:58"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:21:58"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:21:58"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:21:58"}
+{"level":"notice","message":"pid: 11410","timestamp":"2015-01-17 07:21:58"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:22:08"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:22:08"}
+{"level":"notice","message":"pid: 11411","timestamp":"2015-01-17 07:22:08"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:22:08"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:22:08"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:22:08"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:22:08"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:22:08"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:22:08"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:22:08"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:22:08 ***","timestamp":"2015-01-17 07:22:08"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:25:37"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:25:37"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:25:37"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:25:37"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:25:37"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:25:37"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:25:37"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:25:37"}
+{"level":"notice","message":"pid: 11411","timestamp":"2015-01-17 07:25:37"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:26:07"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:26:07"}
+{"level":"notice","message":"pid: 11415","timestamp":"2015-01-17 07:26:07"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:26:07"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:26:07"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:26:07"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:26:07"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:26:07"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:26:07"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:26:07"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:26:07 ***","timestamp":"2015-01-17 07:26:07"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:26:29"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:26:29"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:26:29"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:26:29"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:26:29"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:26:29"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:26:29"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:26:29"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:26:31"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:26:31"}
+{"level":"notice","message":"pid: 11416","timestamp":"2015-01-17 07:26:31"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:26:31"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:26:31"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:26:31"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:26:31"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:26:31"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:26:31"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:26:31"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:26:31 ***","timestamp":"2015-01-17 07:26:31"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:29:57"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:29:57"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:29:57"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:29:57"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:29:57"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:29:57"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:29:57"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:29:57"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:30:02"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:30:02"}
+{"level":"notice","message":"pid: 11418","timestamp":"2015-01-17 07:30:02"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:30:02"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:30:02"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:30:02"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:30:02"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:30:02"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:30:02"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:30:02"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:30:02 ***","timestamp":"2015-01-17 07:30:02"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:30:35"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:30:35"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:30:35"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:30:35"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:30:35"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:30:35"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:30:35"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:30:35"}
+{"level":"notice","message":"pid: 11418","timestamp":"2015-01-17 07:30:35"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:30:41"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:30:41"}
+{"level":"notice","message":"pid: 11419","timestamp":"2015-01-17 07:30:41"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:30:41"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:30:41"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:30:41"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:30:41"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:30:41"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:30:41"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:30:41"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:30:41 ***","timestamp":"2015-01-17 07:30:41"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:31:33"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:31:33"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:31:33"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:31:33"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 07:31:33"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:31:33"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 07:31:33"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 07:31:33"}
+{"level":"notice","message":"pid: 11419","timestamp":"2015-01-17 07:31:33"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:31:36"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:31:36"}
+{"level":"notice","message":"pid: 11420","timestamp":"2015-01-17 07:31:36"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:31:36"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:31:36"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:31:36"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:31:36"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:31:36"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:31:36"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:31:36"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:31:36 ***","timestamp":"2015-01-17 07:31:36"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":234324,\"myArg2\":4343,\"action\":\"http_post\",\"apiVersion\":1}","duration":1,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:31:40"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to initializer change (/Volumes/Data/Documents/Researches/WSO2/ESB/sandbox/wso2-esb-nodejs-samples/server/initializers/soap_server.js) ***\r\n\r\n","timestamp":"2015-01-17 07:31:51"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 07:31:51"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 07:31:51"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:31:51"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 07:32:17"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 07:32:17"}
+{"level":"notice","message":"pid: 11425","timestamp":"2015-01-17 07:32:17"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 07:32:17"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 07:32:17"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 07:32:17"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 07:32:17"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 07:32:17"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 07:32:17"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 07:32:17"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 07:32:17 ***","timestamp":"2015-01-17 07:32:17"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":234324,\"myArg2\":4343,\"action\":\"http_post\",\"apiVersion\":1}","duration":2,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 07:32:23"}
+{"to":"127.0.0.1","level":"info","message":"[server: socket] new connection","timestamp":"2015-01-17 07:32:45"}
+{"to":"127.0.0.1","action":"test","params":"{\"action\":\"test\"}","duration":1,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ socket ]","timestamp":"2015-01-17 07:32:54"}
+{"to":"127.0.0.1","action":"sdfdfsd","params":"{\"action\":\"sdfdfsd\"}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ socket ]","timestamp":"2015-01-17 07:42:49"}
+{"to":"127.0.0.1","action":"dgfsewedfdf","params":"{\"action\":\"dgfsewedfdf\"}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ socket ]","timestamp":"2015-01-17 07:42:53"}
+{"to":"127.0.0.1","action":"f3e3dfdfdf","params":"{\"action\":\"f3e3dfdfdf\"}","duration":0,"error":"\"Error: unknown action or invalid apiVersion\"","level":"info","message":"[ action @ socket ]","timestamp":"2015-01-17 07:42:56"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 08:51:47"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:08:02"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:08:02"}
+{"level":"notice","message":"pid: 11495","timestamp":"2015-01-17 09:08:02"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:08:02"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:08:02"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:08:02"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 09:08:02"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:08:02"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:08:02"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:08:02"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:08:02"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:08:02 ***","timestamp":"2015-01-17 09:08:02"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:08:08"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to server (net) change ***\r\n\r\n","timestamp":"2015-01-17 09:09:09"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:09:09"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 09:09:09"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:09:09"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 09:09:09"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:09:09"}
+{"level":"notice","message":"stopping server: net","timestamp":"2015-01-17 09:09:09"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 09:09:09"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:09:09"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 09:09:09"}
+{"level":"notice","message":"pid: 11495","timestamp":"2015-01-17 09:09:09"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:09:21"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:09:21"}
+{"level":"notice","message":"pid: 11497","timestamp":"2015-01-17 09:09:21"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:09:21"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:09:21"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:09:21"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 09:09:21"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:09:21"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:09:21"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:09:21"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:09:21"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:09:21 ***","timestamp":"2015-01-17 09:09:21"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:09:25"}
+{"level":"info","message":"34234-32434","timestamp":"2015-01-17 09:09:28"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to server (net) change ***\r\n\r\n","timestamp":"2015-01-17 09:16:54"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:16:54"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 09:16:54"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:16:54"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 09:16:54"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:16:54"}
+{"level":"notice","message":"stopping server: net","timestamp":"2015-01-17 09:16:54"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 09:16:54"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:16:54"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 09:16:54"}
+{"level":"notice","message":"pid: 11497","timestamp":"2015-01-17 09:16:54"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:17:00"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:17:00"}
+{"level":"notice","message":"pid: 11501","timestamp":"2015-01-17 09:17:00"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:17:00"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:17:00"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:17:00"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 09:17:00"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:17:00"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:17:00"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:17:00"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:17:00"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:17:00 ***","timestamp":"2015-01-17 09:17:00"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:17:03"}
+{"level":"info","message":"2343-5454","timestamp":"2015-01-17 09:17:05"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to server (net) change ***\r\n\r\n","timestamp":"2015-01-17 09:17:25"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:17:25"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 09:17:25"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:17:25"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 09:17:25"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:17:25"}
+{"level":"notice","message":"stopping server: net","timestamp":"2015-01-17 09:17:25"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:17:25"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 09:17:25"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 09:17:25"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:17:29"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:17:29"}
+{"level":"notice","message":"pid: 11503","timestamp":"2015-01-17 09:17:29"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:17:29"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:17:29"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:17:29"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 09:17:29"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:17:29"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:17:29"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:17:29"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:17:29"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:17:29 ***","timestamp":"2015-01-17 09:17:29"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:17:31"}
+{"level":"info","message":"32434-23434","timestamp":"2015-01-17 09:17:34"}
+{"level":"info","message":"4545-5656","timestamp":"2015-01-17 09:17:40"}
+{"level":"info","message":"sdfsdf-undefined","timestamp":"2015-01-17 09:18:50"}
+{"level":"info","message":"sdfsdf-32434","timestamp":"2015-01-17 09:18:56"}
+{"level":"info","message":"32434-2","timestamp":"2015-01-17 09:18:59"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to server (net) change ***\r\n\r\n","timestamp":"2015-01-17 09:19:16"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:19:16"}
+{"level":"notice","message":"stopping server: socket","timestamp":"2015-01-17 09:19:16"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:19:16"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 09:19:16"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:19:16"}
+{"level":"notice","message":"stopping server: net","timestamp":"2015-01-17 09:19:16"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 09:19:16"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:19:16"}
+{"level":"notice","message":"pid: 11503","timestamp":"2015-01-17 09:19:16"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:30:19"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:30:19"}
+{"level":"notice","message":"pid: 11517","timestamp":"2015-01-17 09:30:19"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:30:19"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:30:19"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:30:20"}
+{"level":"notice","message":"starting server: socket","timestamp":"2015-01-17 09:30:20"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:30:20"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:30:20"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:30:20"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:30:20"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:30:20 ***","timestamp":"2015-01-17 09:30:20"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:36:39"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:36:39"}
+{"level":"notice","message":"pid: 11524","timestamp":"2015-01-17 09:36:39"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:36:39"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:36:39"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:36:39"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:36:39"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:36:39"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:36:39"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:36:39"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:36:39 ***","timestamp":"2015-01-17 09:36:39"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:36:47"}
+{"level":"info","message":"4454-234324","timestamp":"2015-01-17 09:36:50"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:03"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:04"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:05"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:07"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:08"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:09"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:13"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:14"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:16"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:17"}
+{"level":"info","message":"����\u0006-undefined","timestamp":"2015-01-17 09:37:18"}
+{"level":"info","message":"\u001b-undefined","timestamp":"2015-01-17 09:37:19"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:21"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:21"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:23"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:23"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:30"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:31"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:31"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:31"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:37:31"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:38"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:38"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:38"}
+{"level":"info","message":"l-undefined","timestamp":"2015-01-17 09:40:39"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:41"}
+{"level":"info","message":"C'-undefined","timestamp":"2015-01-17 09:40:41"}
+{"level":"info","message":"C'-undefined","timestamp":"2015-01-17 09:40:42"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:42"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:43"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:46"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:46"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:46"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:47"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:47"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:47"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:47"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:47"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:48"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:48"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:49"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:49"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:49"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:50"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:50"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:40:59"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:00"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:13"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:13"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:13"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:13"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:14"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:14"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:15"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:15"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:15"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:16"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:16"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:16"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:17"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:17"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:17"}
+{"level":"info","message":"\u0001-undefined","timestamp":"2015-01-17 09:41:18"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:41:19"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to server (net) change ***\r\n\r\n","timestamp":"2015-01-17 09:41:51"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:41:51"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 09:41:51"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:41:51"}
+{"level":"notice","message":"stopping server: net","timestamp":"2015-01-17 09:41:51"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:41:51"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 09:41:51"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 09:41:51"}
+{"level":"notice","message":"pid: 11524","timestamp":"2015-01-17 09:41:51"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:42:14"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:42:14"}
+{"level":"notice","message":"pid: 11529","timestamp":"2015-01-17 09:42:14"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:42:14"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:42:14"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:42:14"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:42:14"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:42:14"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:42:14"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:42:14"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:42:14 ***","timestamp":"2015-01-17 09:42:14"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:42:19"}
+{"level":"info","message":"hexChunk: fff4fffd06","timestamp":"2015-01-17 09:42:20"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:42:20"}
+{"level":"info","message":"hexChunk: 0d0a","timestamp":"2015-01-17 09:42:21"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to server (net) change ***\r\n\r\n","timestamp":"2015-01-17 09:42:52"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:42:52"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 09:42:52"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:42:52"}
+{"level":"notice","message":"stopping server: net","timestamp":"2015-01-17 09:42:52"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:42:52"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 09:42:52"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 09:42:52"}
+{"level":"notice","message":"pid: 11529","timestamp":"2015-01-17 09:42:52"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:43:00"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:43:00"}
+{"level":"notice","message":"pid: 11531","timestamp":"2015-01-17 09:43:00"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:43:00"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:43:00"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:43:00"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:43:00"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:43:00"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:43:00"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:43:00"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:43:00 ***","timestamp":"2015-01-17 09:43:00"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:43:03"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:06"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:13"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:18"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:21"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:21"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:24"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:24"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:25"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:25"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:25"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:27"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:27"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:27"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:27"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:28"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:28"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:31"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:31"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:31"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:43:31"}
+{"level":"info","message":"\r\n\r\n*** rebooting due to server (net) change ***\r\n\r\n","timestamp":"2015-01-17 09:44:06"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:44:06"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-01-17 09:44:06"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:44:06"}
+{"level":"notice","message":"stopping server: net","timestamp":"2015-01-17 09:44:06"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:44:06"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-01-17 09:44:06"}
+{"level":"info","message":"actionhero member 192.168.2.114 has left the cluster","timestamp":"2015-01-17 09:44:06"}
+{"level":"notice","message":"pid: 11531","timestamp":"2015-01-17 09:44:06"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:44:08"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:44:08"}
+{"level":"notice","message":"pid: 11533","timestamp":"2015-01-17 09:44:08"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:44:08"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:44:08"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:44:08"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:44:08"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:44:08"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:44:08"}
+{"level":"notice","message":"environment: development","timestamp":"2015-01-17 09:44:08"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:44:08 ***","timestamp":"2015-01-17 09:44:08"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:44:11"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:44:13"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 09:44:19"}
+{"level":"info","message":"12312-3434","timestamp":"2015-01-17 09:44:21"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 09:44:26"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-01-17 09:44:33"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-01-17 09:50:51"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-01-17 09:50:51"}
+{"level":"notice","message":"pid: 11540","timestamp":"2015-01-17 09:50:51"}
+{"level":"notice","message":"server ID: 192.168.2.114","timestamp":"2015-01-17 09:50:51"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-01-17 09:50:51"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-01-17 09:50:51"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-01-17 09:50:51"}
+{"level":"notice","message":"starting server: net","timestamp":"2015-01-17 09:50:51"}
+{"level":"info","message":"actionhero member 192.168.2.114 has joined the cluster","timestamp":"2015-01-17 09:50:51"}
+{"level":"notice","message":"environment: production","timestamp":"2015-01-17 09:50:51"}
+{"level":"notice","message":"*** Server Started @ 2015-01-17 09:50:51 ***","timestamp":"2015-01-17 09:50:51"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 11:58:47"}
+{"level":"info","message":"23434-342343","timestamp":"2015-01-17 11:58:50"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 11:58:52"}
