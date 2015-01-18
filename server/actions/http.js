@@ -61,10 +61,12 @@ exports.http_post = {
   version:                1.0,
   toDocument:             true,
 
-  inputs: commonInputs,
+  inputs: {},
 
   run: function(api, connection, next){
     connection.rawConnection.responseHeaders.push(['Content-Type', 'text/plain']);
+    
+    api.log(util.inspect(connection));
     
     var myArg1 = connection.params.myArg1;
     var myArg2 = connection.params.myArg2;

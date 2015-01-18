@@ -897,3 +897,72 @@
 {"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 11:58:47"}
 {"level":"info","message":"23434-342343","timestamp":"2015-01-17 11:58:50"}
 {"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 11:58:52"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 14:41:20"}
+{"level":"info","message":"POST-/api/httppost","timestamp":"2015-01-17 14:41:20"}
+{"level":"info","message":"Content-Type:-application/x-www-form-urlencoded;","timestamp":"2015-01-17 14:41:20"}
+{"level":"info","message":"Accept:-*/*","timestamp":"2015-01-17 14:41:20"}
+{"level":"info","message":"Host:-localhost:9000","timestamp":"2015-01-17 14:41:20"}
+{"level":"info","message":"Connection:-Keep-Alive","timestamp":"2015-01-17 14:41:20"}
+{"level":"info","message":"User-Agent:-Synapse-PT-HttpComponents-NIO","timestamp":"2015-01-17 14:41:20"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 14:41:20"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 14:44:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 14:44:22"}
+{"level":"info","message":"GET-/api/httpget?wsdl","timestamp":"2015-01-17 14:44:22"}
+{"level":"info","message":"User-Agent:-Java/1.6.0_65","timestamp":"2015-01-17 14:44:22"}
+{"level":"info","message":"Host:-localhost:9000","timestamp":"2015-01-17 14:44:22"}
+{"level":"info","message":"Accept:-text/html,","timestamp":"2015-01-17 14:44:22"}
+{"level":"info","message":"Connection:-keep-alive","timestamp":"2015-01-17 14:44:22"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 14:44:50"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 14:44:50"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 14:46:36"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 14:46:36"}
+{"level":"info","message":"GET-/api/httppost?wsdl","timestamp":"2015-01-17 14:46:36"}
+{"level":"info","message":"User-Agent:-Java/1.6.0_65","timestamp":"2015-01-17 14:46:36"}
+{"level":"info","message":"Host:-localhost:9000","timestamp":"2015-01-17 14:46:36"}
+{"level":"info","message":"Accept:-text/html,","timestamp":"2015-01-17 14:46:36"}
+{"level":"info","message":"Connection:-keep-alive","timestamp":"2015-01-17 14:46:36"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 14:46:52"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 14:46:52"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"myArg1\":12323,\"myArg2\":34343,\"action\":\"http_get\",\"apiVersion\":1}","duration":5,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 14:51:50"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 14:51:59"}
+{"level":"info","message":"GET-/api/httpget?myArg1=12323&myArg2=34343","timestamp":"2015-01-17 14:51:59"}
+{"level":"info","message":"User-Agent:-curl/7.37.1","timestamp":"2015-01-17 14:51:59"}
+{"level":"info","message":"Host:-localhost:9000","timestamp":"2015-01-17 14:51:59"}
+{"level":"info","message":"Accept:-*/*","timestamp":"2015-01-17 14:51:59"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 14:52:06"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] new connection","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"GET-/soapService?wsdl","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"Host:-localhost:9000","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"Accept:-text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"Cookie:-current-breadcrumb=manage_menu%2Cmediation_menu%2Cendpoints_menu%23endpoints+wsdlEndpoint.jsp*;","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"User-Agent:-Mozilla/5.0","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"Accept-Language:-en-us","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"Accept-Encoding:-gzip,","timestamp":"2015-01-17 14:52:42"}
+{"level":"info","message":"Connection:-keep-alive","timestamp":"2015-01-17 14:52:42"}
+{"to":"127.0.0.1","level":"info","message":"[server: net] connection closed","timestamp":"2015-01-17 14:53:16"}
+{"to":"127.0.0.1","action":"http_get","params":"{\"action\":\"http_get\",\"apiVersion\":1}","duration":10,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 14:55:26"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":1,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 15:00:26"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":1,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 15:45:22"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 15:46:25"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 15:46:41"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 15:46:52"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":1,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 15:46:54"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:03:13"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:11:36"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:13:50"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:26:53"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:28:03"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:44:39"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:45:25"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:46:03"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:46:55"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":132323,\"myArg2\":3434,\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:48:45"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"myArg1\":132323,\"myArg2\":3434,\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:49:22"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:49:28"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:51:39"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:51:53"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:52:50"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:57:42"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 16:57:44"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":2,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 17:09:56"}
+{"to":"127.0.0.1","action":"http_post","params":"{\"action\":\"http_post\",\"apiVersion\":1}","duration":0,"error":"\"Error: myArg1 is a required parameter for this action\"","level":"info","message":"[ action @ web ]","timestamp":"2015-01-17 17:09:57"}
