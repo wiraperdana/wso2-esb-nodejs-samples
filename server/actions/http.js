@@ -30,8 +30,8 @@ var commonInputs = {
 };
     
 exports.http_get = {
-  name:                   'http_get',
-  description:            'http_get',
+  name:                   'http_get_query',
+  description:            'http_get_query',
   blockedConnectionTypes: [],
   outputExample:          {},
   matchExtensionMimeType: false,
@@ -53,8 +53,8 @@ exports.http_get = {
 };
 
 exports.http_post = {
-  name:                   'http_post',
-  description:            'http_post',
+  name:                   'http_post_form',
+  description:            'http_post_form',
   blockedConnectionTypes: [],
   outputExample:          {},
   matchExtensionMimeType: false,

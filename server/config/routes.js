@@ -39,11 +39,11 @@ exports.default = {
       ---------------------- */
       
       get: [
-        { path: '/httpget', action: 'http_get' }
+        { path: '/httpgetquery', action: 'http_get_query' }
       ],
 
       post: [
-        { path: '/httppost', action: 'http_post' }
+        { path: '/httppostform', action: 'http_post_form' }
       ],
       
     }
