@@ -3,7 +3,7 @@
   ---------------------------------------------
   
   USECASE 1: 
-  HTTP GET (query) to HTTP POST (payload)
+  HTTP GET (query) to HTTP POST (form)
   
   ---------------------------------------------
   
@@ -16,8 +16,8 @@
   
    -->
 
-<api xmlns="http://ws.apache.org/ns/synapse" name="USECASE_1" context="/usecases">
-   <resource methods="GET" uri-template="/first?myArg1={arg1}&myArg2={arg2}">
+<api xmlns="http://ws.apache.org/ns/synapse" name="USECASE_1" context="/usecases/first">
+   <resource methods="GET" uri-template="?myArg1={arg1}&amp;myArg2={arg2}">
       <inSequence>
          <log level="full"></log>
          <payloadFactory media-type="xml">
@@ -43,4 +43,4 @@
          <send></send>
       </outSequence>
    </resource>
-</api>
+</api>         

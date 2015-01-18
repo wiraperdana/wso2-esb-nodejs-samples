@@ -3,14 +3,13 @@
 Sample of use cases where WSO2 ESB interracts with node.js http and tcp services.
 
 1. HTTP GET (query) to HTTP POST (form)
-2. HTTP POST to HTTP GET
+2. HTTP POST (form) to HTTP GET (query)
 3. HTTP POST to HTTP SOAP
 4. HTTP POST to TCP
 5. HTTP POST to TCP with transform mediator
 6. HTTP POST to HTTP GET or TCP with content-based routing mediator
 7. HTTP POST to HTTP GET or TCP with content-based routing and transform mediator
 8. TCP to HTTP GET
-
 
 ## Getting Started
 
@@ -94,18 +93,33 @@ Sample of use cases where WSO2 ESB interracts with node.js http and tcp services
 
 ## Use Case 1: HTTP GET (query) to HTTP POST (form)
 
-### ESB API: 
+#### ESB API: 
     http://localhost:8280/usecases/first?myArg1={myArg1}&myArg2={myArg2}
 
-### NODE.JS API: 
+#### NODE.JS API: 
     http://localhost:8080/api/httppostform
 
 The service accept parameters in x-www-form-urlencoded format.
 
-### TRY
+#### TRY
 
     curl "http://localhost:8280/usecases/first?myArg1=12323&myArg2=34343"
 
 should return:
 
     <1232334343*423208789;22020#
+    
+## Use Case 2: HTTP POST (form) to HTTP GET (query)
+
+#### ESB API: 
+    http://localhost:8280/usecases/second
+
+#### NODE.JS API: 
+    http://localhost:8080/api/httpgetquery?myArg={myArg1}&myArg2={myArg2}
+
+#### TRY
+    curl -d "myArg1=56565" -d "myArg2=2321" "http://localhost:8280/usecases/second"
+
+should return:
+
+    <565652321*131287365;54244#
