@@ -1,0 +1,36 @@
+<!-- 
+  
+  ---------------------------------------------
+  
+  USECASE 3: 
+  HTTP POST (form) to HTTP SOAP
+    
+  ---------------------------------------------
+  
+  - Select API Menu on the left sidebar. 
+  - Click Add API button.
+  - Click Switch to Source View.
+  - Copy Paste this xml
+  
+  Wira Perdana 
+  
+   -->
+
+<api xmlns="http://ws.apache.org/ns/synapse" name="USECASE_3" context="/usecases/third">
+   <resource methods="POST">
+      <inSequence>
+         <log level="full" />
+         <property name="uri.var.arg1" expression="//myArg1"/>
+         <property name="uri.var.arg2" expression="//myArg2"/>
+         <property name="messageType" value="text/plain" scope="axis2" type="STRING"></property>
+         <send>
+            <endpoint>
+               <http method="GET" uri-template="http://localhost:8080/api/httpgetquery?myArg1={uri.var.arg1}&amp;myArg2={uri.var.arg2}"></http>
+            </endpoint>
+         </send>
+      </inSequence>
+      <outSequence>
+         <send></send>
+      </outSequence>
+   </resource>
+</api>         

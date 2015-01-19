@@ -4,18 +4,16 @@ Sample of use cases where WSO2 ESB interracts with node.js http and tcp services
 
 1. HTTP GET (query) to HTTP POST (form)
 2. HTTP POST (form) to HTTP GET (query)
-3. HTTP POST to HTTP SOAP
-4. HTTP POST to TCP
-5. HTTP POST to TCP with transform mediator
-6. HTTP POST to HTTP GET or TCP with content-based routing mediator
-7. HTTP POST to HTTP GET or TCP with content-based routing and transform mediator
-8. TCP to HTTP GET
+3. HTTP POST (form) to HTTP SOAP
+4. HTTP POST (form) to TCP
+5. HTTP POST (form) to TCP with transform mediator
+6. HTTP POST (form) to HTTP GET (query) or TCP with content-based routing mediator
+7. HTTP POST (form) to HTTP GET (query) or TCP with content-based routing and transform mediator
+8. TCP to HTTP GET (query)
 
 ## Getting Started
 
-1. Starting node.js services
-
-    Make sure you have node and npm installed. 
+1. Make sure you have node and npm installed before to start node.js services.
 
         cd server/
         ./actionhero start 
@@ -24,7 +22,7 @@ Sample of use cases where WSO2 ESB interracts with node.js http and tcp services
     
         ./actionhero start --daemon
 
-2. Open usecases directory. It contains xml files named with use case number.
+2. Open *usecases* directory. It contains xml files named with use case number.
 
 3. Open the xml file, and copy pasted it as API or PROXY in WSO2 ESB Administration Console source view.
 
@@ -123,3 +121,7 @@ should return:
 should return:
 
     <565652321*131287365;54244#
+    
+## Use Case 3: HTTP POST (form) to HTTP SOAP
+
+// TODO

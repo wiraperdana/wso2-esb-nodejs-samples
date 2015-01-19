@@ -1,0 +1,50 @@
+<definitions name="SampleService"
+   targetNamespace="http://localhost:8081/soapSample?wsdl"
+   xmlns="http://schemas.xmlsoap.org/wsdl/"
+   xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+   xmlns:tns="http://localhost:8081/soapSample?wsdl"
+   xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ 
+   <message name="SampleOperationRequest">
+      <part name="myArg1" type="xsd:int"/>
+      <part name="myArg2" type="xsd:int"/>
+   </message>
+   <message name="SampleOperationResponse">
+      <part name="response" type="xsd:string"/>
+   </message>
+
+   <portType name="Sample_PortType">
+      <operation name="sampleOperation">
+         <input message="tns:SampleOperationRequest"/>
+         <output message="tns:SampleOperationResponse"/>
+      </operation>
+   </portType>
+
+   <binding name="Sample_Binding" type="tns:Sample_PortType">
+   <soap:binding style="rpc"
+      transport="http://schemas.xmlsoap.org/soap/http"/>
+   <operation name="sampleOperation">
+      <soap:operation soapAction="sampleOperation"/>
+      <input>
+         <soap:body
+            encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+            namespace="urn:examples:sampleservice"
+            use="encoded"/>
+      </input>
+      <output>
+         <soap:body
+            encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+            namespace="urn:examples:sampleservice"
+            use="encoded"/>
+      </output>
+   </operation>
+   </binding>
+
+   <service name="Sample_Service">
+      <documentation>WSDL File for SampleService</documentation>
+      <port binding="tns:Sample_Binding" name="Sample_Port">
+         <soap:address
+            location="http://localhost:8081/soapSample"/>
+      </port>
+   </service>
+</definitions>

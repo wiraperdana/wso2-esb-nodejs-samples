@@ -9,6 +9,7 @@
   "dependencies": {
     "actionhero": "10.0.3",
     "grunt": "latest",
+    "soap": "^0.6.1",
     "soap-server": "^0.1.0",
     "ws": "latest"
   },
